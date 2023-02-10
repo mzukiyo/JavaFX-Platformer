@@ -1,0 +1,5 @@
+references.txt
+screen_captures/
+.vscode/
+src\.vscode/
+*.class
